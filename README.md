@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nikema
 
-<!--
-**nikema-armory/nikema-armory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the new Associate Community Marketing Manager at @armory. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on getting started in my new role
+- 🌱 I’m currently learning Kubernetes
+- 👯 I’m looking to collaborate on creating equitable contributor communities
+- 🤔 I’m looking for help with meeting more DevOps engineers
+- 💬 Ask me about my journey into tech
+- 📫 How to reach me: Find me on [Twitter](https://twitter.com/dev_nikema)
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I once had three black cats living with me. Two, I adopted, one adopted my family
